@@ -4,8 +4,8 @@ I simplify complexity into clear, usable content for end users.
 
 ## Portfolio Samples
 
-- [Sample User Guide](sample-user-guide.pdf)
-- [Microcopy Before/After Examples](microcopy-samples.pdf)
+- [User Guide Sample](Easements-Up.pdf)
+- [Task-based How-to Sample](UMP_7.5--HTTPS Implementation Guide.pdf) 
 - [API Documentation Snippet](api-doc-sample.pdf)
 
 ## About Me
