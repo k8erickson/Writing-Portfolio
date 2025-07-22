@@ -1,15 +1,16 @@
 # Kate Erickson - Technical & UX Writer
 
-I simplify complexity into clear, usable content for end users.
+I simplify complexity into clear, usable content.
 
 ## Portfolio Samples
 
-- [User Guide Sample](Easements-Up.pdf)
-- [Task-based How-to Sample](UMP_7.5--HTTPS\Implementation\Guide.pdf)
-- [API Documentation Snippet](api-doc-sample.pdf)
+- [Sample from the user guide for conservation planning software](Easements-Up.pdf)
+- [Task-based guide for configuring an HTTPS connection](UMP_7.5--HTTPS\Implementation\Guide.pdf)
+- [Task-based guide for configuring SiteMinder](How\to\Configure\UMP\for\Use\with\SiteMinder.pdf)
+- [Internal authoring guide I wrote for my tech writing team](
 
 ## About Me
 
 Technical writer with 10+ years of experience, focusing on user-centered content, developer documentation, and UX writing.
 
-[LinkedIn](https://www.linkedin.com/in/kate-erickson-54666b39/) | [Email Me](mailto:your.email@example.com)
+[LinkedIn](https://www.linkedin.com/in/kate-erickson-54666b39/) | [Email Me](mailto:k8erickson@gmail.com)
