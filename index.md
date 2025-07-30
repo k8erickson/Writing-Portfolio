@@ -12,4 +12,5 @@ I simplify complexity into clear, usable content.
 
 Technical writer with 10+ years of experience, focusing on user-centered content, developer documentation, and UX writing.
 
-[LinkedIn](https://www.linkedin.com/in/kate-erickson-54666b39/) | [Email Me](mailto:k8erickson@gmail.com)
+<a href="https://www.linkedin.com/in/kate-erickson-54666b39/" target="_blank">LinkedIn</a>
+ | [Email Me](mailto:k8erickson@gmail.com)
