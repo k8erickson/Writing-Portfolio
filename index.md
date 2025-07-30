@@ -1,4 +1,3 @@
-# Kate Erickson - Technical & UX Writer
 
 I simplify complexity into clear, usable content.
 
