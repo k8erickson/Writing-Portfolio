@@ -2,3 +2,9 @@
   text-align: left;
   padding-left: 2rem; /* Adds spacing from left edge */
 }
+.value-prop {
+  font-size: 1.4rem;
+  font-weight: 600;
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+}
