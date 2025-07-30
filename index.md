@@ -1,4 +1,3 @@
-
 <p class="value-prop">I simplify complexity into clear, usable content.</p>
 
 ## About Me
