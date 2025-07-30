@@ -1,6 +1,6 @@
 <p class="value-prop">Simplifying complexity into clear, usable content.</p>
 
-## About Me
+## About me
 
 I’m a technical and UX writer with a graduate degree in English and over 10 years of experience. I’ve worked on everything from user guides and onboarding materials to release notes, API references, FAQs, and internal SOPs.
 
@@ -18,7 +18,7 @@ Quality written content can define a user’s entire experience with a product o
  | [Email Me](mailto:k8erickson@gmail.com)
 -->
 
-## Writing Samples
+## Writing samples
 
 <ul>
   <li><a href="Easements-Up.pdf" target="_blank">Sample from a user guide for conservation planning software</a></li>
