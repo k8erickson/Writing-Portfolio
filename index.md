@@ -2,8 +2,11 @@
 
 ## About Me
 
-Technical writer with 10+ years of experience, focusing on user-centered content, developer documentation, and UX writing.
+I’m a technical writer with over 10 years of experience, specializing in user-centered content, developer documentation, and UX writing.
 
+Good documentation can define a user’s entire experience with a product or service. That’s why I approach every writing task with empathy and a focus on delivering lean, high-quality content that empowers users and respects their time.
+
+I’ve worked on everything from user guides and onboarding materials to release notes, API references, FAQs, and internal SOPs. I collaborate closely with developers, UX designers, and product managers, and I love getting feedback (even if it means scrapping work). I’m passionate about improving the user experience through clear, well-crafted content.
 <p>
   <a href="https://www.linkedin.com/in/kate-erickson-54666b39/" target="_blank">
     <i class="fab fa-linkedin"></i> LinkedIn
