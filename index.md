@@ -4,9 +4,18 @@
 
 Technical writer with 10+ years of experience, focusing on user-centered content, developer documentation, and UX writing.
 
+<p>
+  <a href="https://www.linkedin.com/in/kate-erickson-54666b39/" target="_blank">
+    <i class="fab fa-linkedin"></i> LinkedIn
+  </a> |
+  <a href="mailto:your.email@example.com">
+    <i class="fas fa-envelope"></i> Email Me
+  </a>
+</p>
+<!--
 <a href="https://www.linkedin.com/in/kate-erickson-54666b39/" target="_blank">LinkedIn</a>
  | [Email Me](mailto:k8erickson@gmail.com)
-
+-->
 
 ## Writing Samples
 
