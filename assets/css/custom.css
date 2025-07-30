@@ -1,6 +1,11 @@
 .page-header {
-  text-align: center;
+  text-align: left;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  max-width: 800px;
+  margin: 0 auto 2rem auto;
 }
+
 .value-prop {
   font-size: 1.4rem;
   font-weight: 600;
