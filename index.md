@@ -18,7 +18,7 @@ Quality written content can define a user’s entire experience with a product o
  | [Email Me](mailto:k8erickson@gmail.com)
 -->
 
-## Writing samples
+## Technical writing samples
 
 <ul>
   <li><a href="Easements-Up.pdf" target="_blank">Sample from a user guide for conservation planning software</a></li>
@@ -26,3 +26,6 @@ Quality written content can define a user’s entire experience with a product o
   <li><a href="How-to-Configure-UMP-for-SiteMinder.pdf" target="_blank">Task-based guide for configuring SiteMinder</a></li>
   <li><a href="Metis-TechDocs-Authoring-Guide-Alpha.pdf" target="_blank">Internal authoring guide I wrote for my team</a></li>
 </ul>
+
+## UX writing samples
+Coming soon...
