@@ -12,7 +12,7 @@
   line-height: 1.2;
 }
 
-.project-name .subtitle {
+h1.project-name .subtitle {
   font-size: 1.6rem !important;
   font-weight: 500;
   display: block;
