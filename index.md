@@ -1,7 +1,5 @@
 <p class="value-prop">Simplifying complexity into clear, usable content.</p>
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
-
 <h2>About Me</h2>
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
@@ -16,7 +14,6 @@
 
 </div>
 
-</div>
 
 <p>
   <a href="https://www.linkedin.com/in/kate-erickson-54666b39/" target="_blank">
