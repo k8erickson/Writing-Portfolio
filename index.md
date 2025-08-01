@@ -6,7 +6,9 @@
 
   <div>
     <h3>About Me</h3>
-    <p>I'm a technical writer and UX writer with over 10 years of experience...</p>
+    <p>I’m a technical and UX writer with a graduate degree in English and over 10 years of experience. I’ve worked on everything from user guides and onboarding materials to release notes, API references, FAQs, and internal SOPs.
+
+Quality written content can define a user’s entire experience with a product or service. That’s why I approach every writing task with empathy and a focus on delivering clear, lean content that empowers users and respects their time.</p>
   </div>
 
 </div>
