@@ -1,6 +1,4 @@
-{% raw %}
 <p class="value-prop">Simplifying complexity into clear, usable content.</p>
-{% endraw %}
 
 <h2>About me</h2>
 
