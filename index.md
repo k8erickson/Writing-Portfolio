@@ -2,7 +2,7 @@
 
 <h2>About Me</h2>
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
+<div style="display: flex; align-items: flex-start; gap: 20px; flex-direction: row-reverse;">
 
   <img src="images/k8.jpg" alt="Picture of Kate Erickson" style="width: 150px; border-radius: 8px; margin-top: 4px;">
 
@@ -13,7 +13,6 @@
   </div>
 
 </div>
-
 
 <p>
   <a href="https://www.linkedin.com/in/kate-erickson-54666b39/" target="_blank">
