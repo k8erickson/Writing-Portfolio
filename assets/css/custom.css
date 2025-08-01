@@ -42,9 +42,9 @@
 }
 
 .about-me-container img {
-  max-width: 150px;
-  width: 100%;
-  height: auto;
+  max-width: 150px !important;
+  width: 100% !important;
+  height: auto !important;
   border-radius: 8px;
   margin-top: 4px;
 }
