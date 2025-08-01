@@ -29,5 +29,5 @@ Quality written content can define a user’s entire experience with a product o
 
 ## UX writing samples
 <ul>
-  <li><a href="UC-Modal.pdf" target="_blank">Before and after modal example</a></li>
+  <li><a href="UnsavedChangesModalBeforeAfter.html" target="_blank">Before and after modal example</a></li>
 </ul>
