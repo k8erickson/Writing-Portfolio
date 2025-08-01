@@ -7,13 +7,13 @@
 }*/
 
 .project-name {
-  font-size: 2.8rem;
+  font-size: 2.8rem !important;
   font-weight: 700;
   line-height: 1.2;
 }
 
 .project-name .subtitle {
-  font-size: 1.6rem;
+  font-size: 1.6rem !important;
   font-weight: 500;
   display: block;
   margin-top: 0.3rem;
