@@ -2,7 +2,7 @@
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
 
- ## About Me
+<h2>About Me</h2>
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
 
@@ -13,6 +13,8 @@
 
     <p>Quality written content can define a user’s entire experience with a product or service. That’s why I approach every writing task with empathy and a focus on delivering clear, lean content that empowers users and respects their time.</p>
   </div>
+
+</div>
 
 </div>
 
