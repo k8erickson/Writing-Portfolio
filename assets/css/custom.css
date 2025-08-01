@@ -6,16 +6,16 @@
   margin: 0 auto 2rem auto;
 }*/
 
-.project-name {
-  font-size: 2.8rem !important;
+.project-name h1 {
+  font-size: 2.8rem;
   font-weight: 700;
   line-height: 1.2;
+  margin-bottom: 0;
 }
 
-h1.project-name .subtitle {
-  font-size: 1.6rem !important;
+.project-name .subtitle {
+  font-size: 1.6rem;
   font-weight: 500;
-  display: block;
   margin-top: 0.3rem;
 }
 
