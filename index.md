@@ -3,11 +3,16 @@
 <div style="display: flex; align-items: flex-start; gap: 20px;">
 <img src="images/k8.jpg" alt="Picture of Kate Erickson" style="width: 150px; border-radius: 8px;">
 
-  <div>
-    <h3>About Me</h3>
-    <p>I’m a technical and UX writer with a graduate degree in English and over 10 years of experience. I’ve worked on everything from user guides and onboarding materials to release notes, API references, FAQs, and internal SOPs.
+ ## About Me
 
-Quality written content can define a user’s entire experience with a product or service. That’s why I approach every writing task with empathy and a focus on delivering clear, lean content that empowers users and respects their time.</p>
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+
+  <img src="images/k8.jpg" alt="Picture of Kate Erickson" style="width: 150px; border-radius: 8px; margin-top: 4px;">
+
+  <div>
+    <p>I’m a technical and UX writer with a graduate degree in English and over 10 years of experience. I’ve worked on everything from user guides and onboarding materials to release notes, API references, FAQs, and internal SOPs.</p>
+
+    <p>Quality written content can define a user’s entire experience with a product or service. That’s why I approach every writing task with empathy and a focus on delivering clear, lean content that empowers users and respects their time.</p>
   </div>
 
 </div>
