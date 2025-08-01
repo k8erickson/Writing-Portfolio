@@ -1,5 +1,3 @@
-<p class="value-prop">Simplifying complexity into clear, usable content.</p>
-
 <h2>About me</h2>
 
 <div style="display: flex; align-items: flex-start; gap: 20px; flex-direction: row-reverse;">
