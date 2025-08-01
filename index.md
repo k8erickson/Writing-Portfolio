@@ -2,7 +2,7 @@
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
 
-  <img src="k8.jpg" alt="Picture of Kate Erickson" style="width: 150px; border-radius: 8px;">
+  <img images/src="k8.jpg" alt="Picture of Kate Erickson" style="width: 150px; border-radius: 8px;">
 
   <div>
     <h3>About Me</h3>
