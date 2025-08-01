@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<h2>About Me</h2>
+<h2>About me</h2>
 
 <div style="display: flex; align-items: flex-start; gap: 20px; flex-direction: row-reverse;">
 
