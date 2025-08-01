@@ -1,13 +1,13 @@
-<p class="value-prop">Simplifying complexity into clear, usable content.</p>
+ <p class="value-prop">Simplifying complexity into clear, usable content.</p>
 
-<h2>About Me</h2>
+<h2>About me</h2>
 
-<div class="about-me-container">
+<div style="display: flex; align-items: flex-start; gap: 20px; flex-direction: row-reverse;">
 
-  <img src="images/k8.jpg" alt="Picture of Kate Erickson">
+  <img src="images/k8.jpg" alt="Picture of Kate Erickson" style="width: 150px; border-radius: 8px; margin-top: 4px;">
 
   <div>
-    <p>I’m a technical and UX writer with a graduate degree in English and over 10 years of experience. I’ve worked on everything from user guides and onboarding materials to release notes, API references, FAQs, and internal SOPs. Now I'm vibe coding, too.</p>
+    <p>I’m a technical and UX writer with a graduate degree in English and over 10 years of experience. I’ve worked on everything from user guides and onboarding materials to release notes, API references, FAQs, and internal SOPs. I'm vibe coding now, too.</p>
 
     <p>Quality written content can define a user’s entire experience with a product or service. That’s why I approach every writing task with empathy and a focus on delivering clear, lean content that empowers users and respects their time.</p>
   </div>
