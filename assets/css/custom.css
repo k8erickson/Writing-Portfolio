@@ -13,8 +13,8 @@
   margin-bottom: 0;
 }
 
-p.subtitle {
-  font-size: 1.6rem;
+header .subtitle {
+  font-size: 1.6rem !important;
   font-weight: 500;
   margin-top: 0.3rem;
 }
