@@ -12,11 +12,11 @@
   line-height: 1.2;
   margin-bottom: 0;
 }
-
-header .subtitle {
+body header.page-header p.subtitle {
   font-size: 1.6rem !important;
   font-weight: 500;
   margin-top: 0.3rem;
+  color: red; /* temporary test */
 }
 
 .project-tagline {
