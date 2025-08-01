@@ -9,6 +9,9 @@ Quality written content can define a user’s entire experience with a product o
   <a href="https://www.linkedin.com/in/kate-erickson-54666b39/" target="_blank">
     <i class="fab fa-linkedin"></i> LinkedIn
   </a> |
+  <a href="KErickson-Resume-2025-VC.pdf" target="_blank">
+    <i class="fas fa-file-pdf"></i> View My Resume (PDF)
+  </a> |
   <a href="mailto:your.email@example.com">
     <i class="fas fa-envelope"></i> Email Me
   </a>
