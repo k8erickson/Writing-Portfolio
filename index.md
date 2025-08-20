@@ -9,9 +9,9 @@ layout: default
   <img src="images/k8.jpg" alt="Picture of Kate Erickson" style="width: 150px; border-radius: 8px; margin-top: 4px;">
 
   <div>
-    <p>I’m a technical and UX writer with a graduate degree in English and over 10 years of experience. I’ve worked on everything from user guides and API references, to microcopy, release notes, onboarding materials, FAQs, and internal SOPs.</p>
+    <p>I’m a technical and UX writer with a graduate degree in English and over 10 years of experience. I’ve worked on everything from user guides and API references, to release notes, troubleshooting articles, SOPs, style guides, UI copy, and more.</p>
 
-    <p>Quality written content can define a user’s entire experience with a product or service. That’s why I approach every writing task with empathy and a focus on delivering clear, lean content that empowers users and respects their time.</p>
+    <p>I approach every writing task with empathy for the user and a focus on delivering clear, lean content that empowers users and respects their time.</p>
   </div>
 
 </div>
