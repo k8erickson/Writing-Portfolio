@@ -38,8 +38,7 @@ layout: default
   <li><a href="Easements-Up.pdf" target="_blank">Sample from a user guide for conservation planning software</a></li>
   <li><a href="UMP_7.5--HTTPS-Implementation-Guide.pdf" target="_blank">Task-based guide for configuring an HTTPS connection</a></li>
   <li><a href="How-to-Configure-UMP-for-SiteMinder.pdf" target="_blank">Task-based guide for configuring SiteMinder</a></li>
-  <li><a href="Metis-TechDocs-Authoring-Guide-Alpha.pdf" target="_blank">Internal authoring guide I wrote for my team</a></li>
-  <li><a href="Authoring-Guide-Source-Control-Excerpt.pdf" target="_blank">Source control excerpt from authoring guide I wrote</a></li>
+  <li><a href="Release-New-CD-Help.pdf" target="_blank">Excerpt from the source control section of the authoring guide I wrote</a></li>
 </ul>
 
 ## UX writing samples
