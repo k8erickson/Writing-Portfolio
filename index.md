@@ -11,7 +11,7 @@ layout: default
   <div>
     <p>I’m a technical and UX writer with a graduate degree in English and over 10 years of experience. I’ve worked on everything from user guides and API references, to release notes, troubleshooting articles, SOPs, style guides, UI copy, and more.</p>
 
-    <p>I approach every writing task with empathy for the user and a focus on delivering clear, lean content that empowers users and respects their time.</p>
+    <p>I approach writing with the user’s experience as my priority, delivering clear, lean content that helps users achieve their objectives quickly.</p>
   </div>
 
 </div>
@@ -35,10 +35,10 @@ layout: default
 ## Technical writing samples
 
 <ul>
-  <li><a href="Easements-Up.pdf" target="_blank">Sample from Easements section of help for geospatial application</a></li>
-  <li><a href="Release-New-CD-Help.pdf" target="_blank">Sample from source control section of authoring guide I wrote</a></li>
-  <li><a href="UMP_7.5--HTTPS-Implementation-Guide.pdf" target="_blank">Task-based guide for configuring an HTTPS connection</a></li>
-  <li><a href="How-to-Configure-UMP-for-SiteMinder.pdf" target="_blank">Task-based guide for configuring SiteMinder</a></li>
+  <li>This <a href="Easements-Up.pdf" target="_blank">sample</a> is from the help guide for a geospatial application.</li>
+  <li>This <a href="Release-New-CD-Help.pdf" target="_blank">sample</a> is from the source control section of an authoring guide I wrote.</li>
+  <li>This <a href="UMP_7.5--HTTPS-Implementation-Guide.pdf" target="_blank">guide</a> is for implementing an HTTPS connection to a server.</li>
+  <li>This <a href="How-to-Configure-UMP-for-SiteMinder.pdf" target="_blank">guide</a> is for configuring SiteMinder for user authentication.</li>
 </ul>
 
 ## UX writing samples
