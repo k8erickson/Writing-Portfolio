@@ -35,6 +35,7 @@ layout: default
 ## Technical writing samples
 
 <ul>
+  <li>This <a href="CD-EE-Survey-Config-up.pdf" target="_blank">sample</a> is from a guide for a survey-building application.</li>
   <li>This <a href="Easements-Up.pdf" target="_blank">sample</a> is from the help guide for a geospatial application.</li>
   <li>This <a href="Release-New-CD-Help.pdf" target="_blank">sample</a> is from the source control section of an authoring guide I wrote.</li>
   <li>This <a href="UMP_7.5--HTTPS-Implementation-Guide.pdf" target="_blank">guide</a> is for implementing an HTTPS connection to a server.</li>
